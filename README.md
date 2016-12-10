@@ -1,4 +1,4 @@
-# caffe-install-issues for mac sierra
+# caffe-install-issues for mac sierra 10.12.1
 
 ##cmake 安装
 //vecLib include directory 
