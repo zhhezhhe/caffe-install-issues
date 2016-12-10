@@ -1,4 +1,4 @@
-# caffe-install-issues
+# caffe-install-issues for mac sierra
 caffe
 #cmake 安装
 将
